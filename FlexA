@@ -16,3 +16,18 @@
         flex-direction: row;
         flex-wrap: wrap-reverse;
     }
+    .ulA{justify-content: center;}
+    .ulB{justify-content: end;}
+    .ulC{justify-content: first baseline;}
+    .ulD{justify-content: flex-end;}
+    .ulE{justify-content: flex-start;}
+    .ulF{justify-content: last baseline;}
+    .ulG{justify-content: left;}
+    .ulH{justify-content: right;}
+    .ulI{justify-content: safe;}
+    .ulL{justify-content: space-around;}
+    .ulM{justify-content: space-between;}
+    .ulN{justify-content: space-evenly;}
+    .ulO{justify-content: start;}
+    .ulP{justify-content: stretch;}
+    .ulQ{justify-content: unsafe;}
