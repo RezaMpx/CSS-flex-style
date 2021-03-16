@@ -31,3 +31,10 @@
     .ulO{justify-content: start;}
     .ulP{justify-content: stretch;}
     .ulQ{justify-content: unsafe;}
+
+    li{
+        width: 100px;
+        text-align: center;
+        border: solid #00f 2px;
+        box-sizing: content-box;
+    }
