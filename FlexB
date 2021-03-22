@@ -20,3 +20,7 @@
     }
     li{
         width: 150px;
+height: 200px;
+        line-height: 200px;
+        text-align: center;
+        border: solid #00f 2px;
