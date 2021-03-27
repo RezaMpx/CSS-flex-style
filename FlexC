@@ -3,4 +3,44 @@
 
 <head>
     <meta charset="UTF-8">
-خلزعزعحزحلزر۷ل 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        .ulA {
+        display: flex;
+        list-style: none;
+        margin-top: 0;
+        padding: 5px;
+        border: solid #f00 2px;
+        flex-direction: column-reverse;
+        flex-wrap: wrap;
+        align-content: center;
+        height: 630px;
+
+    }
+    li{
+        width: 260px;
+        height: 200px;
+        line-height: 150px;
+        text-align: center;
+        border: solid #00f 2px;
+        box-sizing: content-box;
+    }
+    </style>
+</head>
+<body>
+    <ul class="ulA">
+        <li>sample text1</li>
+        <li>sample text2</li>
+        <li style="align-self: center; width: 170px">sample text3</li>
+        <li>sample text4</li>
+        <li>sample text5</li>
+        <li>sample text6</li>
+        <li>sample text7</li>
+        <li>sample text8</li>
+        <li>sample text9</li>
+
+</body>
+
+</html>
