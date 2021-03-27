@@ -7,11 +7,11 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
     <style>
-.ulA {
+        .ulA {
         display: flex;
         list-style: none;
         margin-top: 0;
- padding: 5px;
+        padding: 5px;
         border: solid #f00 2px;
         flex-direction: row;
         flex-wrap: wrap;
@@ -20,12 +20,29 @@
     }
     li{
         width: 150px;
-height: 200px;
+        height: 200px;
         line-height: 200px;
         text-align: center;
         border: solid #00f 2px;
-    box-sizing: content-box;
+        box-sizing: content-box;
     }
     </style>
 </head>
+<body>
+    <ul class="ulA">
+        <li>sample text1
 
+
+        </li>
+        <li style="height: 300px">sample text2</li>
+        <li>sample text3</li>
+        <li style="height: 250px; line-height: 50px">sample text4</li>
+        <li>sample text5</li>
+        <li>sample text6</li>
+        <li>sample text7</li>
+        <li>sample text8</li>
+        <li>sample text9</li>
+    </ul>
+</body>
+
+</html>
