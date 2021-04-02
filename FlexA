@@ -11,7 +11,6 @@
         border: solid #f00 2px;
     }
     .ulA{justify-content: center;}
-    .ulB{justify-content: end;}
     .ulC{justify-content: first baseline;}
     .ulD{justify-content: flex-end;}
     .ulE{justify-content: flex-start;}
