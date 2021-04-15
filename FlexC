@@ -15,7 +15,7 @@
         border: solid #f00 2px;
         flex-direction: column-reverse;
         flex-wrap: wrap;
-        align-content: center;
+        align-cocenter;
         height: 630px;
 
     }
