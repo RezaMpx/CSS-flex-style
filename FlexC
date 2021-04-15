@@ -9,7 +9,7 @@
     <style>
         .ulA {
         display: flex;
-        list-style: none;
+   t-style: none;
         margin-
         padding: 5px;
         border: solid #f00 2px;
