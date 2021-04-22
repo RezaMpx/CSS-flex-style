@@ -27,10 +27,7 @@
         box-sizing: content-box;
     }
     </style>
-</head>
-<body>
-    <ul class="ulA">
-        <li>sample text1
+
 
 
         </li>
