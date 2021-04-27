@@ -14,9 +14,7 @@
         padding: 5px;
         border: solid #f00 2px;
         flex-direction: column-reverse;
-        flex-wrap: wrap;
-        align-cocenter;
-        height: 630px;
+        flex-wrap: 
 
     }
     li{
