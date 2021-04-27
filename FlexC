@@ -12,10 +12,7 @@
    t-style: none;
         margin-
         padding: 5px;
-        border: solid #f00 2px;
-        flex-direction: column-reverse;
-        flex-wrap: 
-
+        border: solid #f00 
     }
     li{
         width: 260px;
