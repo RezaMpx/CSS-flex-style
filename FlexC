@@ -15,7 +15,6 @@
         border: solid #f00 
     }
     li{
-        width: 260px;
         line-height: 150px;
         text-align: center;
         border: solid #00f 2px;
