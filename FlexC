@@ -16,11 +16,9 @@
     }
     li{
         width: 260px;
-        height: 200px;
         line-height: 150px;
         text-align: center;
         border: solid #00f 2px;
-        box-sizing: content-box;
     }
     </style>
 </head>
