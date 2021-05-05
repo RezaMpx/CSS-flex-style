@@ -7,17 +7,12 @@
     <title>Document</title>
     <ul 
         <li>sample text3</li>
-        
-        
     <ul class="ulD">
         <li>sample text2</li>
-        
     <br>
         <li>sample text1</li>
         <li>sample text5</li>
         <li>sample text6</li>
-    
-    
     <br>
     <ul class="ulI">
         <li>sample text1</li>
