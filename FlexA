@@ -12,7 +12,6 @@
     .ulA{justify-content: center;}
     .ulC{justify-content: first baseline;}
     .ulD{justify-content: flex-end;}
-    .ulE{justify-content: flex-start;}
     .ulF{justify-content: last baseline;}
     .ulG{justify-content: left;}
     .ulH{justify-content: right;}
