@@ -16,7 +16,6 @@
     .ulG{justify-content: left;}
     .ulH{justify-content: right;}
     .ulI{justify-content: safe;}
-    .ulL{justify-content: space-around;}
 
 
     li{
