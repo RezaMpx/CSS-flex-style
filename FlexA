@@ -18,7 +18,6 @@
     .ulI{justify-content: safe;}
     .ulL{justify-content: space-around;}
     .ulN{justify-content: space-evenly;}
-    .ulP{justify-content: stretch;}
 
 
     li{
