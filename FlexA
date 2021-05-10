@@ -20,7 +20,6 @@
     .ulN{justify-content: space-evenly;}
     .ulO{justify-content: start;}
     .ulP{justify-content: stretch;}
-    .ulQ{justify-content: unsafe;}
 
 
     li{
