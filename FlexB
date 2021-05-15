@@ -12,7 +12,6 @@
         list-style: none;
         margin-top: 0;
         border: solid #f00 2px;
-        flex-wrap: wrap;
         align-items: baseline;
 
     }
