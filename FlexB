@@ -17,11 +17,8 @@
     }
         width: 150px;
         height: 200px;
-        
         border: solid #00f 2px;
         box-sizing: content-box;
-    
-        </li>
         <li style="height: 300px">sample text2</li>
         <li>sample text3</li>
         <li style="height: 250px; line-height: 50px">sample text4</li>
