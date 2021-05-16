@@ -16,8 +16,6 @@
         box-sizing: content-box;
         <li style="height: 300px">sample text2</li>
         <li>sample text3</li>
-        <li style="height: 250px; line-height: 50px">sample text4</li>
-        <li>sample text5</li>
         <li>sample text6</li>
         <li>sample text7</li>
         <li>sample text8</li>
