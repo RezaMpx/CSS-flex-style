@@ -10,7 +10,6 @@
         margin-top: 0;
         border: solid #f00 2px;
         align-items: baseline;
-
     }
         width: 150px;
         height: 200px;
