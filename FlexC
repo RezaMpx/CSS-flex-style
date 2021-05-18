@@ -7,7 +7,6 @@
     <meta -Compatible" content="ie=edge">
     <title>Document</title>
     <style>
-        .ulA {
         display: flex;
    t-style: none;
         padding: 5px;
