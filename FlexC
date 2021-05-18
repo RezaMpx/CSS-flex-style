@@ -13,7 +13,6 @@
         margin-
         padding: 5px;
     }
-    li{
         border: solid #00f 2px;
     }
 </head>
