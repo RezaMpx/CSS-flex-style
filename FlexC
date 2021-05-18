@@ -10,7 +10,6 @@
         .ulA {
         display: flex;
    t-style: none;
-        margin-
         padding: 5px;
     }
     }
