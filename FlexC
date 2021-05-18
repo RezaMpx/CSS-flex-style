@@ -16,7 +16,6 @@
     li{
         border: solid #00f 2px;
     }
-    </style>
 </head>
 <body>
     <ul class="ulA">
