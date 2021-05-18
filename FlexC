@@ -16,7 +16,6 @@
         border: solid #00f 2px;
     }
 </head>
-<body>
     <ul class="ulA">
         <li>sample text1</li>
         <li>sample text2</li>
