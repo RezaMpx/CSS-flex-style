@@ -13,7 +13,6 @@
         margin-
         padding: 5px;
     }
-        border: solid #00f 2px;
     }
 </head>
     <ul class="ulA">
