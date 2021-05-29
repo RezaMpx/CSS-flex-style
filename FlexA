@@ -7,7 +7,6 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <style>
         list-style: none;
-        margin-top: -36px;
     }
     .ulA{justify-content: center;}
     .ulC{justify-content: first baseline;}
