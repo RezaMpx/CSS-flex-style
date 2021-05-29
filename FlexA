@@ -8,7 +8,6 @@
     <style>
         list-style: none;
     }
-    .ulA{justify-content: center;}
     .ulC{justify-content: first baseline;}
     .ulD{justify-content: flex-end;}
     .ulF{justify-content: last baseline;}
