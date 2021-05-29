@@ -16,7 +16,6 @@
     .ulH{justify-content: right;}
     .ulI{justify-content: safe;}
 
-
     li{
         width: 100px;
         text-align: center;
